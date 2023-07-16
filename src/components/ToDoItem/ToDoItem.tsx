@@ -16,7 +16,7 @@ const ToDoItem: FC<ToDoItemProps> = ({ data, handleToDoItemIsDoneChange }) => {
 
   return (
     <li className='todoItem'>
-      <p className='title'>{title}</p>
+      <p className={`title ${isDone ? 'taskIsDone' : ''}`}>{title}</p>
       <input type='checkbox' checked={isDone} onChange={handleIsDoneChange} />
     </li>
   );

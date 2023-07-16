@@ -1,0 +1,54 @@
+{
+  "todoItems": [
+    {
+      "id": 1,
+      "title": "Купить наушники",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "title": "Закончить дз по реакту",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "title": "Разобраться что такое пропсы)",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "title": "Купить подарок отцу",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "title": "Приготовить ужин",
+      "isDone": false
+    },
+    {
+      "title": "Test",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "title": "Test 2",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "title": "Test 3",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "title": "dasdsadsaasd",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "title": "dsadasdasads",
+      "isDone": false,
+      "id": 10
+    }
+  ]
+}

@@ -7,3 +7,15 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(<App />);
+
+
+
+
+// GET http://localhost:8000/todoItems/
+// POST http://localhost:8000/todoItems/ {}
+
+// PATCH http://localhost:8000/todoItems/4 {}
+// PUT http://localhost:8000/todoItems/4  {}
+// DELETE http://localhost:8000/todoItems/4 
+
+
